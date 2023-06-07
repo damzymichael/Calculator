@@ -124,4 +124,3 @@ equalsButton.addEventListener("click", (e) => {
 deleteBtn.addEventListener("click", (e) => {
   calculator.delete();
 });
-//JS
